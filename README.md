@@ -5,3 +5,4 @@ Neste repositório está contido o material apresentado em aula, assim como os e
 Os conteúdos abordados nas **aulas** são:
 
 - Aula 1: Big Data, apresentação da disciplina e do conceito de Big Data;
+- Aula 2: Cloud e conceito geral de cloud computing;
