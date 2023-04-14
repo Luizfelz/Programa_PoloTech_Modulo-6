@@ -6,6 +6,9 @@ Os conteúdos abordados nas **aulas** são:
 
 - Aula 1: Big Data, apresentação da disciplina e do conceito de Big Data;
 - Aula 2: Cloud e conceito geral de cloud computing;
+- Aula 3: Pasta com os arquivos da aula 3, sobre Docker;
+- Aula 4: Pasta com os arquivos utilizados na aula 4, continuação da aula 3 sobre Docker;
+- Aula 5: Hadoop, conceitos e explicações gerais e Databricks;
 
 Os arquivos _"apostila-docker.pdf"_ e "_docker_cheatsheet.pdf_" são referentes à apostila e ao _cheat sheet_ para documentação e atalhos para o [Docker](https://www.docker.com/).
 
