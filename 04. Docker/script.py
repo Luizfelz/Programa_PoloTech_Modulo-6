@@ -34,7 +34,7 @@ app = FastAPI()
 def predict(x1: int, x2: int, x3: int, x4: int):
 
     # transforma a entrada em um array numpy
-    X = np.array([[x1, x2, x3, x3]])
+    X = np.array([[x1, x2, x3, x4]])
 
     # faz a previsão usando o modelo treinado
     prediction = model.predict(X)[0]
