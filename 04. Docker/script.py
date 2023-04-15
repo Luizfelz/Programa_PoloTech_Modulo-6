@@ -30,8 +30,8 @@ print("Accuracy:", accuracy)
 app = FastAPI()
 
 # define o endpoint para a previsão
-@app.post("/predict")
-def predict(x1: int, x2: int, x3: int, x4: int):
+@app.get("/predict")
+def predict(x1: float, x2: float, x3: float, x4: float):
 
     # transforma a entrada em um array numpy
     X = np.array([[x1, x2, x3, x4]])
